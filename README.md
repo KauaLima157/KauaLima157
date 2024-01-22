@@ -2,7 +2,7 @@
 
 **`Estudante de gerenciamento de banco de dados`**
 
-Eu sou um aspirante a programador back-end estudando rumo a minha primeira oportunidade no mercado de trabalho
+Eu sou um aspirante a DBA estudando rumo à minha primeira oportunidade no mercado de trabalho.
 
 ---
 ### 💻 Liguagens e ferramentas 
