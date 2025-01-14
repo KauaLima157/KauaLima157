@@ -1,6 +1,6 @@
 # 💀 Kauã Lima
 
-**`Web Development Student`**
+**`Web Developer`**
 
 Eu sou um aspirante a programador, estudando rumo à minha primeira oportunidade no mercado de trabalho.
 
