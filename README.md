@@ -3,7 +3,11 @@
 💭 Atualmente estudando sobre programação em nuvem(AWS) e integração de APIs<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaLima157)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KauaLima157&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaLima157&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 <h3>Languages and Tools:</h3>
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
