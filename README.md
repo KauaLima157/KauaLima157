@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kauã!
 👩🏻‍💻 Programador Full Stack em ascensão<br/>
-💭 Atualmente estudando sobre integração de APIs<br/>
+💭 Atualmente estudando sobre integração de APIs e rede de Computadores<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
