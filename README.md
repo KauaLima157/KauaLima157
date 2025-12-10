@@ -2,10 +2,12 @@
 👩🏻‍💻 Programador Full Stack em ascensão<br/>
 💭 Atualmente estudando sobre integração de APIs e rede de Computadores<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub stats  -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KauaLima157&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaLima157&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauaLima157&theme=dracula" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaLima157&theme=dracula" height="180" />
+</p> 
 
 
 
